@@ -1,0 +1,21 @@
+body {
+  background-color: #eea29a; /* Warna Pink Soft */
+font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
+color: #e06377; /* Warna teks utama (Pink Gelap) */
+}
+
+.kartu-profil {
+  width: 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+  background-color: white;
+  border-radius: 15px; /* Membuat sudut menjadi melengkung */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek Bayangan */
+  text-align: center; /* Menengahkan semua teks didalam kartu */
+}
+
+
+.kartu-profil img {
+  width: 150px;
+  border-radius: 50%; /* Trik untuk memnbuat gambar persegi menjai lingkaran sempurna */
+}
